@@ -6,4 +6,4 @@ Simply change whatever needed in the script (file name, path, and other data var
 
 In this case, it is a caffe model that is being converted. The script is using the coremltools package (installed using pip) to do that conversion.
 
-### Based on using Python 2.7. You may need to use pip3 or python3 in the terminal to use Python 3.6+ if installed on your machine.
+##### Based on using Python 2.7. You may need to use pip3 or python3 in the terminal to use Python 3.6+ if installed on your machine.
